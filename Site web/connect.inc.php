@@ -1,8 +1,8 @@
 <?php
-  $host_name = 'db5013078784.hosting-data.io';
-  $database = 'dbs10979999';
-  $user_name = 'dbu4795446';
-  $password = '/catamimosud!';
+  $host_name = '';
+  $database = '';
+  $user_name = '';
+  $password = '';
   $bdd = null;
 
   try {
